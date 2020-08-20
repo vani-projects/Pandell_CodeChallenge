@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9CCA5F0B-EB6E-4C5D-92C5-ABCC256F8AD6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrintRandomNumbers/README.txt">
+    <Files>
+      <File FileName="PrintRandomNumbers/RandomSequencePrinter.cs" Line="45" Column="48" />
+      <File FileName="PrintRandomNumbers/RandomSequenceStrategy.cs" Line="8" Column="55" />
+      <File FileName="PrintRandomNumbers/RandomSequenceStrategy1.cs" Line="11" Column="26" />
+      <File FileName="PrintRandomNumbers/RandomSequenceStrategy2.cs" Line="20" Column="1" />
+      <File FileName="PrintRandomNumbers/RandomSequenceStrategy3.cs" Line="15" Column="34" />
+      <File FileName="PrintRandomNumbers/README.txt" Line="1" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrintRandomNumbers" expanded="True">
+            <Node name="PrintRandomNumbers" expanded="True">
+              <Node name="README.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PrintRandomNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

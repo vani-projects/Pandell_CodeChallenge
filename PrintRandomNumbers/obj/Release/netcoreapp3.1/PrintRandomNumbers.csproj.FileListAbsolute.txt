@@ -1,0 +1,11 @@
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/bin/Release/netcoreapp3.1/PrintRandomNumbers.deps.json
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/bin/Release/netcoreapp3.1/PrintRandomNumbers.runtimeconfig.json
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/bin/Release/netcoreapp3.1/PrintRandomNumbers.runtimeconfig.dev.json
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/bin/Release/netcoreapp3.1/PrintRandomNumbers.dll
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/bin/Release/netcoreapp3.1/PrintRandomNumbers.pdb
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/obj/Release/netcoreapp3.1/PrintRandomNumbers.AssemblyInfoInputs.cache
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/obj/Release/netcoreapp3.1/PrintRandomNumbers.AssemblyInfo.cs
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/obj/Release/netcoreapp3.1/PrintRandomNumbers.csproj.CoreCompileInputs.cache
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/obj/Release/netcoreapp3.1/PrintRandomNumbers.dll
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/obj/Release/netcoreapp3.1/PrintRandomNumbers.pdb
+/Users/sreekarjoshi/Sreekar/SeagateBackup/Workspace/MyProjects/DotNETProjects/PrintRandomNumbers/PrintRandomNumbers/obj/Release/netcoreapp3.1/PrintRandomNumbers.genruntimeconfig.cache
